@@ -21,7 +21,6 @@ function indexToColumn(index: number): string {
   return column || 'A';
 }
 
-
 import '@ant-design/v5-patch-for-react-19';
 
 export default function App() {
